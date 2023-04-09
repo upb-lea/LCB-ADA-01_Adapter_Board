@@ -343,9 +343,7 @@
   },
   "libraries": {
     "pinned_footprint_libs": [],
-    "pinned_symbol_libs": [
-      "LEA_SymbolLibrary"
-    ]
+    "pinned_symbol_libs": []
   },
   "meta": {
     "filename": "LCB-ADA-01.kicad_pro",
